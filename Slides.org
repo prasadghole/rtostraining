@@ -1,0 +1,8 @@
+#+Title: RTOS Training
+# +Author: Prasad Ghole
+#+Email: prasad.ghole@gmail.com
+#+REVEAL_ROOT: ./reveal.js-master
+#+REVEAL_THEME: night
+#+OPTIONS: toc:nil num:nil timestamp:nil 
+
+* Introduction
